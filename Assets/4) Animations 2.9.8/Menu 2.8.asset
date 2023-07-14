@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Menu 2.8
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Emotes
+    icon: {fileID: 2800000, guid: 9409f22e7821f08409c88a68ad9c589b, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 8cad9a38c5c90ba43ac8ede3790fcb08, type: 2}
+    subParameters: []
+    labels: []
+  - name: Dances
+    icon: {fileID: 2800000, guid: edfa312d565eb024db86e9f7730c9907, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: c7882f0ca104f2b4d830ebcf3d053bc8, type: 2}
+    subParameters: []
+    labels: []
+  - name: Puppets
+    icon: {fileID: 2800000, guid: 83a595730f368e54d97c50e897d5eb96, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 23e0abdb72b7c9b49a6068753d17a3d4, type: 2}
+    subParameters: []
+    labels: []
+  - name: Toggles
+    icon: {fileID: 2800000, guid: a928bc6aec7ff4f478aab87db7256a12, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 795b789775ad15f49ad1c48898bfd6d9, type: 2}
+    subParameters: []
+    labels: []
+  - name: Stickers
+    icon: {fileID: 2800000, guid: aa56f1c61a56122458c71660b28559eb, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 0ad153e9b2233cd43bedd5fe3ed78c7b, type: 2}
+    subParameters: []
+    labels: []
+  - name: DLC
+    icon: {fileID: 2800000, guid: c86eaa7a161376c4eac58a6d850a4c77, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 4e03c506d174cec488f6d54af03b57ae, type: 2}
+    subParameters: []
+    labels: []

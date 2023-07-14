@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Sticker Menu
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Kiss
+    icon: {fileID: 2800000, guid: b74b34d36a561954d9604aabed52621e, type: 3}
+    type: 101
+    parameter:
+      name: VRCEmote
+    value: 101
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Pretzel
+    icon: {fileID: 2800000, guid: 15c4a2866f72e2449ad73f399507714d, type: 3}
+    type: 101
+    parameter:
+      name: VRCEmote
+    value: 102
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Eeeee
+    icon: {fileID: 2800000, guid: 1eaf6be82ebd6924cb7a5d642294c896, type: 3}
+    type: 101
+    parameter:
+      name: VRCEmote
+    value: 103
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: GIB !
+    icon: {fileID: 2800000, guid: b8515923626b185449b7b737cacdafd5, type: 3}
+    type: 101
+    parameter:
+      name: VRCEmote
+    value: 104
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Feesh
+    icon: {fileID: 2800000, guid: 24abe1b570b4f0c46870cf27a3b7baac, type: 3}
+    type: 101
+    parameter:
+      name: VRCEmote
+    value: 105
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Hug
+    icon: {fileID: 2800000, guid: e466ee971d37b844ea5b5ce0a3426274, type: 3}
+    type: 101
+    parameter:
+      name: VRCEmote
+    value: 106
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Shy
+    icon: {fileID: 2800000, guid: 22dab396fe4909d4882f81433c16741d, type: 3}
+    type: 101
+    parameter:
+      name: VRCEmote
+    value: 107
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Comehere
+    icon: {fileID: 2800000, guid: c6b91425dacd9d2439b22052e5b9caf0, type: 3}
+    type: 101
+    parameter:
+      name: VRCEmote
+    value: 108
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
